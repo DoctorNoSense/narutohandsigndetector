@@ -1,6 +1,19 @@
-# Dataset Characteristics
+# Naruto Dataset Characteristics
 
 - **Source:** Originally from [Kaggle](https://www.kaggle.com/datasets/vikranthkanumuru/naruto-hand-sign-dataset)
 - **Issues:** Found unsuitable due to usability and repetitive images
-- **Approach:** Privately collected images of three handsigns (Zero, Tiger, Boar) and applied object detection
+- **Approach:** Privately collected images of three hand signs (Zero, Tiger, Boar) and applied object detection
 - **Privacy:** Due to concerns, collected data cannot be disclosed
+
+The collected images were labeled using [LabelImg](https://github.com/HumanSignal/labelImg), a graphical image annotation tool written in Python that utilizes Qt for its graphical interface. Annotations are saved as XML files in PASCAL VOC format.
+
+**Boar**
+![Image Alt Text](https://github.com/DoctorNoSense/narutohandsigndetector/blob/main/Capture.PNG)
+
+**Tiger**
+![Image Alt Text](https://github.com/DoctorNoSense/narutohandsigndetector/blob/main/Capture%203.PNG)
+
+**Zero**
+![Image Alt Text](https://github.com/DoctorNoSense/narutohandsigndetector/blob/main/zero.PNG)
+
+The installation guide for LabelImg can be found at this link: [LabelImg Installation Guide](https://github.com/HumanSignal/labelImg)
