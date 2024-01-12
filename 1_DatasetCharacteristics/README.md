@@ -6,14 +6,18 @@
 - **Privacy:** Due to concerns, collected data cannot be disclosed
 
 The collected images were labeled using [LabelImg](https://github.com/HumanSignal/labelImg), a graphical image annotation tool written in Python that utilizes Qt for its graphical interface. Annotations are saved as XML files in PASCAL VOC format.
+The installation guide for LabelImg can be found at this link: [LabelImg Installation Guide](https://github.com/HumanSignal/labelImg)
 
-**Boar**
+# Boar
+
 ![Image Alt Text](https://github.com/DoctorNoSense/narutohandsigndetector/blob/main/Capture.PNG)
 
-**Tiger**
+# Tiger
+
 ![Image Alt Text](https://github.com/DoctorNoSense/narutohandsigndetector/blob/main/Capture%203.PNG)
 
-**Zero**
+# Zero
+
 ![Image Alt Text](https://github.com/DoctorNoSense/narutohandsigndetector/blob/main/zero.PNG)
 
-The installation guide for LabelImg can be found at this link: [LabelImg Installation Guide](https://github.com/HumanSignal/labelImg)
+
