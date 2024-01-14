@@ -28,4 +28,4 @@
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](https://github.com/DoctorNoSense/narutohandsigndetector/blob/main/213123.PNG)
