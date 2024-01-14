@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# NARUTO HANDSIGN AI
 
 ## Repository Link
 
@@ -10,13 +10,13 @@
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Object Detection
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** SSD MobileNet V2 FPNLite 640x640
+- **Evaluation Metric:** mAp
+- **Result:** 0.7
 
 ## Documentation
 
