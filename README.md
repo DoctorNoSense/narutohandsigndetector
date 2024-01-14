@@ -2,11 +2,11 @@
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/DoctorNoSense/narutohandsigndetector/tree/main]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Our aim with this project is to craft a nifty object detection model, one that can play the role of a virtual detective decoding the signs we throw its way through the camera lens. We chose three hand signs for this task.
 
 ### Task Type
 
