@@ -19,7 +19,7 @@ Object Detection
 - **Result:** 0.7
 
 ### PROGRAM DOWNLOAD
-[https://drive.google.com/file/d/1qtPQzAYkEet1TpyNF8kMWjHs3Or1tx69/view?usp=sharing]
+[https://drive.google.com/file/d/1-O9R4dlMaPij4JO2MPw0uDZQBVt4n2VP/view?usp=sharing]
 
 ## Documentation
 
