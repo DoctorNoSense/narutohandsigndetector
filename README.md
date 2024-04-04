@@ -20,7 +20,7 @@ Object Detection
 ### Approach & Technologies
 
 After initial setbacks with the
-baseline model (SSD ResNet101 V1) due to increasing loss and poor learning, the team shifted
+baseline model (SSD ResNet101 V1) due to increasing loss and poor learning, we shifted
 to alternative models within the TensorFlow model zoo, including:
 • SSD MobileNet V2 FPNLite (320x320 and 640x640 versions) for varying input sizes.
 • EfficientDet D0 (512x512) for a distinct approach.
@@ -49,7 +49,7 @@ The journey ahead for the "Naruto Hand Sign Detector" includes:
 • Developing an advanced hand sign assistant feature to guide users in performing hand
 signs correctly.
 This future work aims to enhance the project's scope and effectiveness, making it an even more
-exciting tool for fans and technology enthusiasts alike.
+an exciting tool for fans and technology enthusiasts alike.
 
 ## Documentation
 
