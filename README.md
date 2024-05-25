@@ -62,3 +62,7 @@ an exciting tool for fans and technology enthusiasts alike.
 ## Cover Image
 
 ![Project Cover Image](https://github.com/DoctorNoSense/narutohandsigndetector/blob/main/213123.PNG)
+
+## Live Demo
+https://github.com/DoctorNoSense/narutohandsigndetector/assets/149156477/ec967893-49cf-4136-b66e-643c71e54d2b
+
