@@ -1,10 +1,8 @@
 # NARUTO HANDSIGN AI
 
-https://github.com/DoctorNoSense/narutohandsigndetector/assets/149156477/ec967893-49cf-4136-b66e-643c71e54d2b
-
-## Cover Image
-
 ![Project Cover Image](https://github.com/DoctorNoSense/narutohandsigndetector/blob/main/213123.PNG)
+
+https://github.com/DoctorNoSense/narutohandsigndetector/assets/149156477/ec967893-49cf-4136-b66e-643c71e54d2b
 
 ## Repository Link
 
